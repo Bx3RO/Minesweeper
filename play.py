@@ -1,3 +1,4 @@
+#This is to test git
 from functions import set_board, touching, recursive_touching
 
 def play():
